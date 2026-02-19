@@ -13,6 +13,12 @@
 
 ---
 
+## 実演素材
+実演に使用する素材は以下のフォルダからご確認いただけます。
+[Google ドライブ フォルダ](https://drive.google.com/drive/folders/1nbv5AcRqdybYKhiU32nyS3i0nzZTGcop?usp=sharing)
+
+---
+
 ## 進行の流れ
 
 ### 1. 自己紹介（21:00〜）
