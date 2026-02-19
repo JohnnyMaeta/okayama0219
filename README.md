@@ -15,7 +15,7 @@
 
 ## 実演素材
 実演に使用する素材は以下のフォルダからご確認いただけます。
-[Google ドライブ フォルダ](https://drive.google.com/drive/folders/1nbv5AcRqdybYKhiU32nyS3i0nzZTGcop?usp=sharing)
+<a href="https://drive.google.com/drive/folders/1nbv5AcRqdybYKhiU32nyS3i0nzZTGcop?usp=sharing" target="_blank" rel="noopener noreferrer">Google ドライブ フォルダ</a>
 
 ---
 
